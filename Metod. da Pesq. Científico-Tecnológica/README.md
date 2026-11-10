@@ -356,17 +356,17 @@ stateDiagram-v2
 
 ## Hard Skills
 
-| Tecnologia | Onde apliquei no projeto |
-|:--|:--|
-| **Java** | Serviços, DTOs e regras de negócio da API |
-| **Spring Boot** | Controllers, serviços e injeção de dependências |
-| **Spring Security + JWT** | Login, proteção das rotas e controle de acesso por perfil |
-| **JPA / Hibernate** | Mapeamento das entidades e consultas ao banco |
-| **SQL / MySQL** | Criação das tabelas, triggers, índices e consultas dos relatórios |
-| **Modelagem de dados** | DER e modelo lógico do sistema |
-| **HTML e CSS** | Telas responsivas do técnico e do administrador |
-| **JavaScript** | Comunicação com a API, validações e telas dinâmicas |
-| **Git e GitHub** | Branches por task, pull requests e padrão de commits |
+| Tecnologia | Nível de proficiência | Onde apliquei no projeto |
+|:--|:--|:--|
+| **Java** | Sei fazer com autonomia | Serviços, DTOs e regras de negócio da API |
+| **Spring Boot** | Sei fazer com autonomia | Controllers, serviços e injeção de dependências |
+| **Spring Security + JWT** | Sei fazer com ajuda | Login, proteção das rotas e controle de acesso por perfil |
+| **JPA / Hibernate** | Sei fazer com autonomia | Mapeamento das entidades e consultas ao banco |
+| **SQL / MySQL** | Sei fazer com autonomia | Criação das tabelas, triggers, índices e consultas dos relatórios |
+| **Modelagem de dados** | Sei fazer com autonomia | DER e modelo lógico do sistema |
+| **HTML e CSS** | Sei fazer com autonomia | Telas responsivas do técnico e do administrador |
+| **JavaScript** | Sei fazer com autonomia | Comunicação com a API, validações e telas dinâmicas |
+| **Git e GitHub** | Sei fazer com autonomia | Branches por task, pull requests e padrão de commits |
 
 ## Soft Skills
 
