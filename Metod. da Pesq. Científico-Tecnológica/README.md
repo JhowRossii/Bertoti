@@ -154,9 +154,6 @@ Participei das três sprints, passando por banco de dados, front-end e back-end.
 | **2** | — | Histórico de abastecimentos, relatório por técnico, alerta de KM e tipos de serviço | Ajustes nos relatórios |
 | **3** | — | Perfil, agendamentos, combustíveis, troca de óleo, edição de registros e auditoria | Segurança com JWT, mensagens de erro e reestruturação do back-end |
 
-> [!NOTE]
-> Os prints abaixo mostram a versão final do sistema com **dados fictícios**. Clique em cada item para expandir.
-
 <details>
 <summary><b>Modelagem do banco de dados</b> · Sprint 1</summary>
 <br/>
