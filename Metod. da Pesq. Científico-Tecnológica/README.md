@@ -103,7 +103,7 @@ flowchart TB
 
 <p align="center">
   <img width="900" alt="Painel do administrador" src="https://raw.githubusercontent.com/JhowRossii/Bertoti/main/Metod.%20da%20Pesq.%20Cient%C3%ADfico-Tecnol%C3%B3gica/img/painel-administrador.png" />
-  <br/><sub>Painel do administrador na versão final do sistema (dados fictícios)</sub>
+  <br/><sub>Painel do administrador na versão final do sistema </sub>
 </p>
 
 ### Funcionalidades
