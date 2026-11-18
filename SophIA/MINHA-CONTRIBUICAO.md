@@ -1,6 +1,6 @@
 # Minha Contribuição — Projeto SophIA
 
-> Participação de **Jhonatan** no **SophIA**, um assistente de recomendação de livros construído como um **agente de IA** com arquitetura baseada em design patterns.
+> Um assistente de recomendação de livros construído como um **agente de IA** com arquitetura baseada em design patterns.
 > Stack: Java 21 · Spring Boot 4 · Spring AI · PostgreSQL + pgvector · Ollama · JavaFX.
 
 Este documento descreve a minha parte no projeto: o que eu fiz, onde apliquei e o que aprendi.
@@ -15,7 +15,7 @@ A SophIA recebe um pedido em linguagem natural ("quero um romance de época"), e
 
 ## Minha parte no projeto
 
-Fiquei com **três design patterns** da arquitetura do agente e com **o que faltava para o projeto funcionar perfeitamente** de ponta a ponta.
+Fiquei com **três design patterns** da arquitetura do agente.
 
 ### ⛓️ Chain of Responsibility — os advisors
 
